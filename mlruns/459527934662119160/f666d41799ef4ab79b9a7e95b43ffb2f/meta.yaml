@@ -1,0 +1,15 @@
+artifact_uri: /home/shailesh_sharma/assignment1-2/mlflow/mlflow_ui/mlruns/459527934662119160/f666d41799ef4ab79b9a7e95b43ffb2f/artifacts
+end_time: 1707805729920
+entry_point_name: ''
+experiment_id: '459527934662119160'
+lifecycle_stage: active
+run_id: f666d41799ef4ab79b9a7e95b43ffb2f
+run_name: sincere-snipe-537
+run_uuid: f666d41799ef4ab79b9a7e95b43ffb2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707805727378
+status: 3
+tags: []
+user_id: shailesh_sharma

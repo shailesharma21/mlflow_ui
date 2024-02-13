@@ -1,0 +1,15 @@
+artifact_uri: /home/shailesh_sharma/assignment1-2/mlflow/mlflow_ui/mlruns/459527934662119160/cf354499e6fd4b9a9e7b63e38dbc44f5/artifacts
+end_time: 1707805727333
+entry_point_name: ''
+experiment_id: '459527934662119160'
+lifecycle_stage: active
+run_id: cf354499e6fd4b9a9e7b63e38dbc44f5
+run_name: defiant-slug-953
+run_uuid: cf354499e6fd4b9a9e7b63e38dbc44f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707805719875
+status: 3
+tags: []
+user_id: shailesh_sharma
